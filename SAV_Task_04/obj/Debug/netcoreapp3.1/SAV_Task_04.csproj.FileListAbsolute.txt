@@ -1,0 +1,13 @@
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\bin\Debug\netcoreapp3.1\SAV_Task_04.exe
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\bin\Debug\netcoreapp3.1\SAV_Task_04.deps.json
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\bin\Debug\netcoreapp3.1\SAV_Task_04.runtimeconfig.json
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\bin\Debug\netcoreapp3.1\SAV_Task_04.runtimeconfig.dev.json
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\bin\Debug\netcoreapp3.1\SAV_Task_04.dll
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\bin\Debug\netcoreapp3.1\SAV_Task_04.pdb
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.csprojAssemblyReference.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.AssemblyInfo.cs
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.dll
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.pdb
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_04\obj\Debug\netcoreapp3.1\SAV_Task_04.genruntimeconfig.cache
