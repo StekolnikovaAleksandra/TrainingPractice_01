@@ -1,0 +1,13 @@
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.csprojAssemblyReference.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.AssemblyInfo.cs
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\bin\Debug\netcoreapp3.1\SAV_Task_07.exe
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\bin\Debug\netcoreapp3.1\SAV_Task_07.deps.json
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\bin\Debug\netcoreapp3.1\SAV_Task_07.runtimeconfig.json
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\bin\Debug\netcoreapp3.1\SAV_Task_07.runtimeconfig.dev.json
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\bin\Debug\netcoreapp3.1\SAV_Task_07.dll
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\bin\Debug\netcoreapp3.1\SAV_Task_07.pdb
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.dll
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.pdb
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_01\SAV_Task_07\obj\Debug\netcoreapp3.1\SAV_Task_07.genruntimeconfig.cache
